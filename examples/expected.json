@@ -1,0 +1,20 @@
+{
+  "covered_seconds": 10,
+  "maximum": "1.2E+2",
+  "minimum": "1E+2",
+  "segments": [
+    {
+      "duration": 5,
+      "end": 15,
+      "price": "1E+2",
+      "start": 10
+    },
+    {
+      "duration": 5,
+      "end": 20,
+      "price": "1.2E+2",
+      "start": 15
+    }
+  ],
+  "twap": "1.1E+2"
+}

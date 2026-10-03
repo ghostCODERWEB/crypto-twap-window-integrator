@@ -1,0 +1,14 @@
+{
+  "now": 20,
+  "window": 10,
+  "observations": [
+    {
+      "timestamp": 0,
+      "price": 100
+    },
+    {
+      "timestamp": 15,
+      "price": 120
+    }
+  ]
+}
